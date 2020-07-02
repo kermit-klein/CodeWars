@@ -17,4 +17,4 @@ def two_sum(numbers, target)
       return [i, m] if remainder == numbers[m] && (i != m)
     end
   end
-  end
+end
